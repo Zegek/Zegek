@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Zegek
+- 👋 Hi, I’m Kofity
 - 👀 I’m interested in Arduino
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on myself...
-- 📫 How to reach me you dont 😘
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm not ( she/her )
+- 📫 Unreachable
+- 😄 Pronouns: She/them
+- ⚡ Fun fact: 🏳️‍⚧️
 
 <!---
 Zegek/Zegek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
